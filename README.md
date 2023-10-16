@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Akash Panmand
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning react 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Database Admin
+- 🌱 I’m currently learning oracle dba
+- 📫 How to reach me -->  Email - panmandak01@gmail.com
 
 <!---
 panmandakash01/panmandakash01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
